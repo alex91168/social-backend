@@ -1,0 +1,27 @@
+# Ignorar arquivos de configuração do ASP.NET
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+.env
+# Ignorar binários e compilados
+/bin/
+/obj/
+
+/# Ignorar arquivos do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários
+*.tmp
+*.bak
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar o diretório de pacotes
+/packages/
+
+# Ignorar diretórios e arquivos de depuração
+*.vspscc
+*.vssscc
