@@ -1,5 +1,5 @@
 # Ignorar arquivos de configuração do ASP.NET
-appsettings.json
+
 appsettings.Development.json
 appsettings.Production.json
 .env
